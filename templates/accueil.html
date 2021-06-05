@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% block titre %}Accueil{% endblock %}
+{% block contenu %}
+<div class="jumbotron">
+  {% if cookie is defined %}
+  <h1 class="display-4">{{ cookie }}</h1>
+    {% else %}
+  <h1 class="display-4">Bienvenue!</h1>
+  {% endif %}
+  <p class="lead">Tanné d'utiliser un papier et un crayon pour faire votre liste d'épicerie? Essayez notre nouvelle appliccation</p>
+  <hr class="my-4">
+  <p>Application gratuite</p>
+  <p class="lead">
+      {% if nbItems > 0 %}
+    <a class="btn btn-primary btn-lg" href="/liste" role="button">Accéder à votre liste</a>
+          {% else %}
+    <a class="btn btn-primary btn-lg" href="/liste" role="button">Créez votre liste</a>
+      {% endif %}
+  </p>
+</div>
+{% endblock %}

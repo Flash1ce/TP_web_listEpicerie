@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block contenu %}
+
+{% with messages = get_flashed_messages() %}
+  {% if messages %}
+  <div class="alert alert-warning">
+    <ul class=flashes>
+    {% for message in messages %}
+      <li>{{ message }}</li>
+    {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+{% endwith %}
+<form method="post">
+  <div class="container">
+    <label for="id"><b>Nom d'utilisateur</b></label>
+    <input type="text"  name="id" id="id">
+    <label for="mot-passe"><b>Mot de passe</b></label>
+    <input type="password" name="mot-passe" id="mot-passe">
+    <button type="submit">Se connecter</button>
+  </div>
+</form>
+{% endblock %}

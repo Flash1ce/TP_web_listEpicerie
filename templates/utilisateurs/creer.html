@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block titre %}Création d'utilisateur{% endblock %}
+{% block contenu %}
+
+<form method="post">
+    {% if messages is defined and messages|length > 0 %}
+    <div class="alert alert-warning" role="alert">
+        <ul>
+            {% for message in messages %}
+            <li>{{message}}</li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
+    <div class="form-group">
+        <label for="id">Identifiant</label>
+        <input type="text" class="form-control" id="id" name="id">
+    </div>
+    <div class="form-group">
+        <label for="mot-passe">Password</label>
+        <input type="password" class="form-control" id="mot-passe" name="mot-passe">
+    </div>
+        <label for="langue" style="display: block;">Langue</label>
+        <select class="form-control" name="langue" id="langue">
+            <option value="fr_CA" selected>français du Canada</option>
+            <option value="en_CA">anglais du Canada</option>
+        </select>
+    <div>
+        <button type="submit" class="btn btn-primary">Créer</button>
+    </div>
+</form>
+{% endblock %}

@@ -1,0 +1,141 @@
+2020-11-26 19:38:24,273 -- werkzeug -- INFO --  * Restarting with stat
+2020-11-26 19:38:24,916 -- werkzeug -- WARNING --  * Debugger is active!
+2020-11-26 19:38:24,924 -- werkzeug -- INFO --  * Debugger PIN: 332-719-953
+2020-11-26 19:38:24,934 -- werkzeug -- INFO --  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-11-26 19:38:30,193 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 19:38:30] "[33mGET /recherche?description=ip HTTP/1.1[0m" 404 -
+2020-11-26 19:38:30,256 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 19:38:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020-11-26 19:38:31,506 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 19:38:31] "[33mGET /recherche?description= HTTP/1.1[0m" 404 -
+2020-11-26 19:38:31,967 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 19:38:31] "[33mGET /recherche?description= HTTP/1.1[0m" 404 -
+2020-11-26 19:38:34,426 -- root -- ERROR -- Messages : type object 'datetime.datetime' has no attribute 'timedelta'
+2020-11-26 19:38:34,436 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 19:38:34] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2020-11-26 19:38:37,280 -- root -- ERROR -- Messages : type object 'datetime.datetime' has no attribute 'timedelta'
+2020-11-26 19:38:37,281 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 19:38:37] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2020-11-26 19:38:44,655 -- werkzeug -- INFO --  * Restarting with stat
+2020-11-26 19:38:45,340 -- werkzeug -- WARNING --  * Debugger is active!
+2020-11-26 19:38:45,350 -- werkzeug -- INFO --  * Debugger PIN: 332-719-953
+2020-11-26 19:38:45,362 -- werkzeug -- INFO --  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-11-26 19:39:03,705 -- root -- ERROR -- Messages : type object 'datetime.datetime' has no attribute 'timedelta'
+2020-11-26 19:39:03,706 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 19:39:03] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2020-11-26 19:39:20,241 -- root -- ERROR -- Messages : type object 'datetime.datetime' has no attribute 'timedelta'
+2020-11-26 19:39:20,242 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 19:39:20] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2020-11-26 19:39:20,330 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 19:39:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020-11-26 19:39:26,705 -- werkzeug -- INFO --  * Restarting with stat
+2020-11-26 19:39:27,343 -- werkzeug -- WARNING --  * Debugger is active!
+2020-11-26 19:39:27,350 -- werkzeug -- INFO --  * Debugger PIN: 332-719-953
+2020-11-26 19:39:27,360 -- werkzeug -- INFO --  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-11-26 19:39:31,592 -- root -- ERROR -- Messages : type object 'datetime.datetime' has no attribute 'timedelta'
+2020-11-26 19:39:31,594 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 19:39:31] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2020-11-26 19:39:32,438 -- root -- ERROR -- Messages : type object 'datetime.datetime' has no attribute 'timedelta'
+2020-11-26 19:39:32,439 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 19:39:32] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2020-11-26 19:39:32,839 -- root -- ERROR -- Messages : type object 'datetime.datetime' has no attribute 'timedelta'
+2020-11-26 19:39:32,840 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 19:39:32] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2020-11-26 19:39:40,801 -- root -- ERROR -- Messages : type object 'datetime.datetime' has no attribute 'timedelta'
+2020-11-26 19:39:40,804 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 19:39:40] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2020-11-26 19:39:42,063 -- root -- ERROR -- Messages : type object 'datetime.datetime' has no attribute 'timedelta'
+2020-11-26 19:39:42,064 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 19:39:42] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2020-11-26 19:50:53,695 -- werkzeug -- INFO --  * Restarting with stat
+2020-11-26 19:50:54,359 -- werkzeug -- WARNING --  * Debugger is active!
+2020-11-26 19:50:54,367 -- werkzeug -- INFO --  * Debugger PIN: 332-719-953
+2020-11-26 19:50:54,376 -- werkzeug -- INFO --  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-11-26 19:50:56,419 -- root -- ERROR -- Messages : type object 'datetime.datetime' has no attribute 'timedelta'
+2020-11-26 19:50:56,420 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 19:50:56] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2020-11-26 19:50:57,175 -- root -- ERROR -- Messages : type object 'datetime.datetime' has no attribute 'timedelta'
+2020-11-26 19:50:57,176 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 19:50:57] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2020-11-26 19:50:57,798 -- root -- ERROR -- Messages : type object 'datetime.datetime' has no attribute 'timedelta'
+2020-11-26 19:50:57,799 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 19:50:57] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2020-11-26 19:51:00,218 -- root -- ERROR -- Messages : type object 'datetime.datetime' has no attribute 'timedelta'
+2020-11-26 19:51:00,220 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 19:51:00] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2020-11-26 19:51:01,440 -- root -- ERROR -- Messages : type object 'datetime.datetime' has no attribute 'timedelta'
+2020-11-26 19:51:01,440 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 19:51:01] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2020-11-26 19:51:01,713 -- root -- ERROR -- Messages : type object 'datetime.datetime' has no attribute 'timedelta'
+2020-11-26 19:51:01,714 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 19:51:01] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2020-11-26 19:51:01,966 -- root -- ERROR -- Messages : type object 'datetime.datetime' has no attribute 'timedelta'
+2020-11-26 19:51:01,967 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 19:51:01] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2020-11-26 19:55:51,355 -- werkzeug -- INFO --  * Detected change in 'd:\\session 3\\dev application\\TP2\\TP2_AntoineBedard\\app.py', reloading
+2020-11-26 19:55:51,376 -- werkzeug -- INFO --  * Restarting with stat
+2020-11-26 19:55:52,056 -- werkzeug -- WARNING --  * Debugger is active!
+2020-11-26 19:55:52,066 -- werkzeug -- INFO --  * Debugger PIN: 332-719-953
+2020-11-26 19:55:52,075 -- werkzeug -- INFO --  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-11-26 19:56:17,406 -- root -- ERROR -- Messages : type object 'datetime.datetime' has no attribute 'timedelta'
+2020-11-26 19:56:17,408 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 19:56:17] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2020-11-26 19:56:20,560 -- root -- ERROR -- Messages : type object 'datetime.datetime' has no attribute 'timedelta'
+2020-11-26 19:56:20,561 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 19:56:20] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2020-11-26 19:56:45,409 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 19:56:45] "[37mGET /utilisateurs/creer-compte HTTP/1.1[0m" 200 -
+2020-11-26 19:56:46,758 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 19:56:46] "[37mGET /utilisateurs/creer-compte HTTP/1.1[0m" 200 -
+2020-11-26 19:56:47,237 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 19:56:47] "[37mGET /utilisateurs/creer-compte HTTP/1.1[0m" 200 -
+2020-11-26 20:00:00,193 -- werkzeug -- INFO --  * Detected change in 'd:\\session 3\\dev application\\TP2\\TP2_AntoineBedard\\app.py', reloading
+2020-11-26 20:00:00,216 -- werkzeug -- INFO --  * Restarting with stat
+2020-11-26 20:00:00,920 -- werkzeug -- WARNING --  * Debugger is active!
+2020-11-26 20:00:00,928 -- werkzeug -- INFO --  * Debugger PIN: 332-719-953
+2020-11-26 20:00:00,938 -- werkzeug -- INFO --  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-11-26 20:00:02,367 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 20:00:02] "[37mGET /utilisateurs/creer-compte HTTP/1.1[0m" 200 -
+2020-11-26 20:00:04,511 -- root -- ERROR -- Messages : type object 'datetime.datetime' has no attribute 'timedelta'
+2020-11-26 20:00:04,568 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 20:00:04] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2020-11-26 20:00:04,616 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 20:00:04] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-11-26 20:00:04,618 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 20:00:04] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-11-26 20:00:04,639 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 20:00:04] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-11-26 20:00:04,739 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 20:00:04] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-11-26 20:00:04,750 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 20:00:04] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2020-11-26 20:00:04,760 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 20:00:04] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-11-26 20:00:10,451 -- root -- ERROR -- Messages : type object 'datetime.datetime' has no attribute 'timedelta'
+2020-11-26 20:00:10,458 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 20:00:10] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2020-11-26 20:00:10,486 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 20:00:10] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-11-26 20:00:10,489 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 20:00:10] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-11-26 20:00:10,489 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 20:00:10] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-11-26 20:00:10,543 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 20:00:10] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-11-26 20:00:10,549 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 20:00:10] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2020-11-26 20:00:27,681 -- root -- ERROR -- Messages : type object 'datetime.datetime' has no attribute 'timedelta'
+2020-11-26 20:00:27,689 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 20:00:27] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2020-11-26 20:00:27,736 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 20:00:27] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-11-26 20:00:27,738 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 20:00:27] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-11-26 20:00:27,740 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 20:00:27] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-11-26 20:00:27,786 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 20:00:27] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2020-11-26 20:00:27,793 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 20:00:27] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-11-26 20:00:27,814 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 20:00:27] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-11-26 20:00:52,735 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 20:00:52] "[37mGET /utilisateurs/creer-compte HTTP/1.1[0m" 200 -
+2020-11-26 20:01:14,904 -- werkzeug -- INFO --  * Detected change in 'd:\\session 3\\dev application\\TP2\\TP2_AntoineBedard\\app.py', reloading
+2020-11-26 20:01:14,927 -- werkzeug -- INFO --  * Restarting with stat
+2020-11-26 20:01:15,580 -- werkzeug -- WARNING --  * Debugger is active!
+2020-11-26 20:01:15,589 -- werkzeug -- INFO --  * Debugger PIN: 332-719-953
+2020-11-26 20:01:15,599 -- werkzeug -- INFO --  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-11-26 20:03:37,213 -- werkzeug -- INFO --  * Detected change in 'd:\\session 3\\dev application\\TP2\\TP2_AntoineBedard\\app.py', reloading
+2020-11-26 20:03:37,233 -- werkzeug -- INFO --  * Restarting with stat
+2020-11-26 20:03:37,905 -- werkzeug -- WARNING --  * Debugger is active!
+2020-11-26 20:03:37,914 -- werkzeug -- INFO --  * Debugger PIN: 332-719-953
+2020-11-26 20:03:37,923 -- werkzeug -- INFO --  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-11-26 20:03:55,651 -- werkzeug -- INFO --  * Detected change in 'd:\\session 3\\dev application\\TP2\\TP2_AntoineBedard\\app.py', reloading
+2020-11-26 20:03:55,671 -- werkzeug -- INFO --  * Restarting with stat
+2020-11-26 20:03:56,338 -- werkzeug -- WARNING --  * Debugger is active!
+2020-11-26 20:03:56,346 -- werkzeug -- INFO --  * Debugger PIN: 332-719-953
+2020-11-26 20:03:56,355 -- werkzeug -- INFO --  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-11-26 20:10:35,819 -- werkzeug -- INFO --  * Restarting with stat
+2020-11-26 20:10:36,501 -- werkzeug -- WARNING --  * Debugger is active!
+2020-11-26 20:10:36,509 -- werkzeug -- INFO --  * Debugger PIN: 598-781-656
+2020-11-26 20:10:36,518 -- werkzeug -- INFO --  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-11-26 20:10:42,557 -- root -- ERROR -- Messages : type object 'datetime.datetime' has no attribute 'timedelta'
+2020-11-26 20:10:42,559 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 20:10:42] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2020-11-26 20:10:42,640 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 20:10:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020-11-26 20:10:43,632 -- root -- ERROR -- Messages : type object 'datetime.datetime' has no attribute 'timedelta'
+2020-11-26 20:10:43,633 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 20:10:43] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2020-11-26 20:11:09,983 -- werkzeug -- INFO --  * Detected change in 'd:\\session 3\\dev application\\TP2\\TP2_AntoineBedard\\app.py', reloading
+2020-11-26 20:11:10,004 -- werkzeug -- INFO --  * Restarting with stat
+2020-11-26 20:11:10,698 -- werkzeug -- WARNING --  * Debugger is active!
+2020-11-26 20:11:10,707 -- werkzeug -- INFO --  * Debugger PIN: 598-781-656
+2020-11-26 20:11:10,718 -- werkzeug -- INFO --  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-11-26 20:11:54,581 -- werkzeug -- INFO --  * Detected change in 'd:\\session 3\\dev application\\TP2\\TP2_AntoineBedard\\app.py', reloading
+2020-11-26 20:11:54,607 -- werkzeug -- INFO --  * Restarting with stat
+2020-11-26 20:11:55,319 -- werkzeug -- WARNING --  * Debugger is active!
+2020-11-26 20:11:55,327 -- werkzeug -- INFO --  * Debugger PIN: 598-781-656
+2020-11-26 20:11:55,337 -- werkzeug -- INFO --  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-11-26 20:11:56,030 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 20:11:56] "[37mGET / HTTP/1.1[0m" 200 -
+2020-11-26 20:11:59,604 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 20:11:59] "[37mGET / HTTP/1.1[0m" 200 -
+2020-11-26 20:12:02,653 -- werkzeug -- INFO -- 127.0.0.1 - - [26/Nov/2020 20:12:02] "[37mGET / HTTP/1.1[0m" 200 -
+2020-11-26 20:12:08,972 -- werkzeug -- INFO --  * Detected change in 'd:\\session 3\\dev application\\TP2\\TP2_AntoineBedard\\app.py', reloading
+2020-11-26 20:12:08,992 -- werkzeug -- INFO --  * Restarting with stat
+2020-11-26 20:12:09,658 -- werkzeug -- WARNING --  * Debugger is active!
+2020-11-26 20:12:09,665 -- werkzeug -- INFO --  * Debugger PIN: 598-781-656
+2020-11-26 20:12:09,674 -- werkzeug -- INFO --  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-04-04 10:37:43,385 -- werkzeug -- INFO --  * Restarting with stat
+2021-04-04 10:37:44,605 -- werkzeug -- WARNING --  * Debugger is active!
+2021-04-04 10:37:44,621 -- werkzeug -- INFO --  * Debugger PIN: 598-781-656
+2021-04-04 10:37:44,639 -- werkzeug -- INFO --  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
